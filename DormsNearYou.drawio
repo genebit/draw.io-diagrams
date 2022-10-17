@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T00:42:48.220Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xEujga0r2_nD8FyZZxe6" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T00:55:50.100Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dTZ9WVSyAywho4YYsnbd" version="20.4.1" type="github">
   <diagram id="2khsSUMqzWhLE7fcnc-K" name="Page-1">
-    <mxGraphModel dx="2684" dy="1590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1296,8 +1296,8 @@
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YZBHs9toXdcvkFsSKKy4-41" value="This may be subject to change into a PERSON entity and have a subtype for student type, if considering the idea from ma&#39;am mich na what if a person is not a student" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="574" y="1374" width="290" height="140" as="geometry" />
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-41" value="This may be subject to change into a PERSON entity and have a subtype for student type, if considering the idea from ma&#39;am mich na what if a person is not a student" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="574" y="1440" width="290" height="79" as="geometry" />
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=blockThin;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" edge="1" parent="1" source="YZBHs9toXdcvkFsSKKy4-75" target="YZBHs9toXdcvkFsSKKy4-51">
           <mxGeometry relative="1" as="geometry">
@@ -1385,8 +1385,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YZBHs9toXdcvkFsSKKy4-78" value="Explain that this credentials entity is automatically generated from the ASP.NET Framework" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
-          <mxGeometry x="224" y="1414" width="180" height="140" as="geometry" />
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-78" value="Explain that this credentials entity is automatically generated from the ASP.NET Framework" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1782" width="180" height="87" as="geometry" />
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-79" value="SCHOOL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="414" y="1914" width="180" height="180.0000000000009" as="geometry" />
@@ -1551,6 +1551,24 @@
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-153" value="OLD ERD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontFamily=Roboto;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="1">
           <mxGeometry x="24" y="33" width="191" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-155" value="STUDENT" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-156" value="BOOKED_HISTORY" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-157" value="HOUSING" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-169" value="CREDENTIALS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-170" value="HOUSE_RATING" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-171" value="HOUSING_DETAILS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
