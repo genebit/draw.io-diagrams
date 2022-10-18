@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T15:41:30.302Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mTL9JrZZgk9mcXqEtcq4" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T16:07:21.341Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Vg29IiZz52l1AKsuZOxp" version="20.4.1" type="github">
   <diagram id="2khsSUMqzWhLE7fcnc-K" name="Page-1">
-    <mxGraphModel dx="3837" dy="-64" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3262" dy="-405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-1850" y="1780" width="644.29" height="367.15" as="geometry" />
         </mxCell>
         <mxCell id="-IWh2qev6-CeJHzy7OGN-1" value="HOUSING_ACCOMMODATION" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="1106" y="1386" width="347.5" height="310.00000000000045" as="geometry" />
+          <mxGeometry x="1106" y="1386" width="347.5" height="280.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="-IWh2qev6-CeJHzy7OGN-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="-IWh2qev6-CeJHzy7OGN-1" vertex="1">
           <mxGeometry y="30" width="347.5" height="30" as="geometry" />
@@ -112,26 +112,13 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wG6WH41JckLEobR8uw4G-13" value="{Room_Size}" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wG6WH41JckLEobR8uw4G-11" vertex="1">
-          <mxGeometry x="30" width="317.5" height="30" as="geometry">
-            <mxRectangle width="317.5" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG6WH41JckLEobR8uw4G-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="-IWh2qev6-CeJHzy7OGN-1" vertex="1">
-          <mxGeometry y="270" width="347.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wG6WH41JckLEobR8uw4G-18" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="wG6WH41JckLEobR8uw4G-17" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG6WH41JckLEobR8uw4G-19" value="[Room_Price]" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wG6WH41JckLEobR8uw4G-17" vertex="1">
+        <mxCell id="wG6WH41JckLEobR8uw4G-13" value="{Room (Size, Details, Price)}" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wG6WH41JckLEobR8uw4G-11" vertex="1">
           <mxGeometry x="30" width="317.5" height="30" as="geometry">
             <mxRectangle width="317.5" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-IWh2qev6-CeJHzy7OGN-177" value="HOUSING_DETAILS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1529" y="1386" width="267" height="280" as="geometry">
+          <mxGeometry x="1538" y="1386" width="267" height="280" as="geometry">
             <mxRectangle x="1546" y="1482" width="136" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -374,7 +361,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YZBHs9toXdcvkFsSKKy4-40" value="Current_Address (Street, City, Municipality, Postal Code)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="YZBHs9toXdcvkFsSKKy4-38" vertex="1">
+        <mxCell id="YZBHs9toXdcvkFsSKKy4-40" value="{Current_Address (Street, City, Municipality, Postal Code)}" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="YZBHs9toXdcvkFsSKKy4-38" vertex="1">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -532,7 +519,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-95" value="A school&#39;s location will be measured to calculate the distance of each housing&lt;br&gt;&lt;br&gt;Is school only limited to ADNU? If so there is no need to create a school entity" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="35" y="2199" width="180" height="140" as="geometry" />
+          <mxGeometry x="-360" y="2190" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-99" value="RENT_HISTORY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="783" y="1386" width="180" height="70" as="geometry">
@@ -552,7 +539,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-128" target="wG6WH41JckLEobR8uw4G-54" edge="1">
+        <mxCell id="2mJPpbzy66i5dqDWl8BV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-128" target="-IWh2qev6-CeJHzy7OGN-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-77" value="has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-45" vertex="1" connectable="0">
@@ -561,7 +548,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZBHs9toXdcvkFsSKKy4-115" value="HOUSE_RATING" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="783" y="1510" width="180" height="100" as="geometry">
+          <mxGeometry x="783" y="1506" width="180" height="100" as="geometry">
             <mxRectangle x="839" y="1581" width="121" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -590,9 +577,6 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YZBHs9toXdcvkFsSKKy4-142" value="NEW ERD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontFamily=Roboto;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="24" y="1231" width="191" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HMP-M2KRiYonu4Yb_yYn-1" value="&lt;b&gt;Logic:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;A student will be identified through their IDs to access the website. The ID needs to be valid. (How can it be confirmed if the student ID is valid)&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
           <mxGeometry x="-900" y="1238" width="305" height="224" as="geometry" />
@@ -708,7 +692,7 @@
         <mxCell id="2mJPpbzy66i5dqDWl8BV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-109" target="-IWh2qev6-CeJHzy7OGN-5" edge="1">
+        <mxCell id="2mJPpbzy66i5dqDWl8BV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-109" target="wG6WH41JckLEobR8uw4G-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-63" value="has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-56" vertex="1" connectable="0">
@@ -717,10 +701,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-67" value="Where is contract void placed?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="281" y="2212" width="180" height="140" as="geometry" />
+          <mxGeometry x="-564" y="2158" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-74" value="How to identify the different room types - get their prices, information, etc." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" parent="1" vertex="1">
-          <mxGeometry x="281" y="2273" width="180" height="96" as="geometry" />
+          <mxGeometry x="-319" y="2025" width="180" height="96" as="geometry" />
         </mxCell>
         <mxCell id="wG6WH41JckLEobR8uw4G-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YZBHs9toXdcvkFsSKKy4-11" target="YZBHs9toXdcvkFsSKKy4-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -788,14 +772,6 @@
             <Array as="points">
               <mxPoint x="688" y="1521" />
               <mxPoint x="688" y="1684" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wG6WH41JckLEobR8uw4G-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="-IWh2qev6-CeJHzy7OGN-11" target="-IWh2qev6-CeJHzy7OGN-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1057" y="1690" />
-              <mxPoint x="1057" y="1521" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -876,7 +852,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-90" value="Current_Address (Street, City, Municipality, Postal Code)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="aLc2s4n6mL9Q6vwh-yH7-88">
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-90" value="{Current_Address (Street, City, Municipality, Postal Code)}" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;" vertex="1" parent="aLc2s4n6mL9Q6vwh-yH7-88">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -888,6 +864,39 @@
           <mxGeometry x="-0.04" y="-1" relative="1" as="geometry">
             <mxPoint y="12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-131" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="1477" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-132" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="223" y="1947.07" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-133" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="516" y="1834" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-134" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1441" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-135" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1573" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-136" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="747" y="1706" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-139" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="-IWh2qev6-CeJHzy7OGN-11" target="-IWh2qev6-CeJHzy7OGN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-142" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="624" y="1306" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-143" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="969" y="1361" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-144" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="1473" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="aLc2s4n6mL9Q6vwh-yH7-145" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="1942" width="33" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
