@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T13:23:32.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Wb0WDUjmgAPmR7Xywq5i" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T14:01:56.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TQeMWa6oh7FO4zEODO0-" version="20.5.1" type="github">
   <diagram id="2khsSUMqzWhLE7fcnc-K" name="Page-1">
-    <mxGraphModel dx="3593" dy="-261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3794" dy="-368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,23 +555,6 @@
         <mxCell id="2mJPpbzy66i5dqDWl8BV-1" value="&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Use school&#39;s API record&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-497.0044444444448" y="1238.0044444444443" width="328" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;startArrow=ERzeroToMany;startFill=0;" parent="1" source="2mJPpbzy66i5dqDWl8BV-9" target="2mJPpbzy66i5dqDWl8BV-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-17" value="is_rented_by" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-4" vertex="1" connectable="0">
-          <mxGeometry x="0.7181" y="-2" relative="1" as="geometry">
-            <mxPoint x="-24" y="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-2" value="STUDENT" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-701" y="1674" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="2mJPpbzy66i5dqDWl8BV-3" target="2mJPpbzy66i5dqDWl8BV-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-3" value="HOUSING" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-195" y="1674" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-535" y="1357" as="sourcePoint" />
@@ -587,54 +570,8 @@
             <mxPoint x="1" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToOne;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2mJPpbzy66i5dqDWl8BV-2" target="2mJPpbzy66i5dqDWl8BV-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-21" value="can_rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-13" vertex="1" connectable="0">
-          <mxGeometry x="-0.802" y="-1" relative="1" as="geometry">
-            <mxPoint x="-15" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-22" value="is_rated_by" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-13" vertex="1" connectable="0">
-          <mxGeometry x="0.7979" relative="1" as="geometry">
-            <mxPoint x="17" y="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-12" value="HOUSE_RATING" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-972" y="1674" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-23" value="&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Note: A student can only rate a housing that is booked previously or currently&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1159" y="1674" width="171" height="217" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmandOne;endFill=0;startArrow=ERmandOne;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="2mJPpbzy66i5dqDWl8BV-2" target="2mJPpbzy66i5dqDWl8BV-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-666" y="1584" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-30" value="is_kept_by" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-29" vertex="1" connectable="0">
-          <mxGeometry x="0.8047" y="2" relative="1" as="geometry">
-            <mxPoint x="34" y="6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-31" value="has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2mJPpbzy66i5dqDWl8BV-29" vertex="1" connectable="0">
-          <mxGeometry x="-0.8451" y="1" relative="1" as="geometry">
-            <mxPoint x="-17" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-32" value="CREDENTIALS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-701" y="1495" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-9" value="RENT_HISTORY" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="1674" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToMany;endFill=0;startArrow=ERmandOne;startFill=0;" parent="1" source="2mJPpbzy66i5dqDWl8BV-2" target="2mJPpbzy66i5dqDWl8BV-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-581" y="1704" as="sourcePoint" />
-            <mxPoint x="-218" y="1704" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2mJPpbzy66i5dqDWl8BV-38" value="HOUSING_DETAILS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-195" y="1795.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1122" y="1238" width="171" height="217" as="geometry" />
         </mxCell>
         <mxCell id="2mJPpbzy66i5dqDWl8BV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" parent="1" target="YZBHs9toXdcvkFsSKKy4-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
