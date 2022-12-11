@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T06:22:51.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wW-W_B-paNZvJwPB9WRA" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T06:43:57.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ch_4xuEnL_NYO35NHZao" version="20.6.2" type="github">
   <diagram id="2khsSUMqzWhLE7fcnc-K" name="Page-1">
-    <mxGraphModel dx="6008" dy="1065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4100" dy="8" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2072,6 +2072,9 @@
         </mxCell>
         <mxCell id="S1yxdOuH4ollsgQqLH9Q-255" value="setup 2 constraints here for student and housing id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-737.23" y="3117" width="282" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S1yxdOuH4ollsgQqLH9Q-256" value="&lt;b&gt;DONE:&lt;/b&gt;&lt;br&gt;LANDLORD_ADDRESS&lt;br&gt;STUDENT_ADDRESS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="2428" width="282" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
